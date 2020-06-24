@@ -1,6 +1,6 @@
 # A simple script for archiving and restoring log files
 
-# Basd on NDG Linux Essentials - Challenge Lab D
+# Based on NDG Linux Essentials - Challenge Lab D
 
 # Case Scenario
 There has been suspicious activity on the system. In order to preserve log information, it will be necessary to archive the current files in /var/log ending with the .log    extension. The files are to be saved to a file named log.tar, stored in the directory, ~/archive.
